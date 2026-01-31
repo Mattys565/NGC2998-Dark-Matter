@@ -1,0 +1,12 @@
+# Fichiers temporaires Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environnement
+.env
+
+# Logs
+*.log
